@@ -1,7 +1,7 @@
 # Robot
 *(Asignatura Sistemas Inteligentes)*
 
-Practicas de laboratorio de la asignatura SSII (completar info)
+Practicas de laboratorio con un Robot Lego de la asignatura Sistemas Inteligentes 
 
 **Práctica 6**
 
@@ -24,3 +24,8 @@ Practicas de laboratorio de la asignatura SSII (completar info)
 * Vehicle 3:
 	* Amor: https://youtu.be/Nr7a9y3tLZs
 	* Explorador: https://youtu.be/K_Arwlk9cnk
+
+
+ ### Research
+ 
+ (agregar)
