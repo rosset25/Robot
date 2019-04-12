@@ -17,9 +17,9 @@ Practicas de laboratorio con un Robot Lego de la asignatura Sistemas Inteligente
 
 **Práctica 8**
 
-* Vehicle 1:							* Vehicle 3:
-	* [Cobardía](https://youtu.be/yKn-FA9Lo0k)			* [Amor](https://youtu.be/Nr7a9y3tLZs)
-	* [Agresividad](https://youtu.be/E7aklLO_LRw)			* [Explorador](https://youtu.be/K_Arwlk9cnk)
+* Vehicle 1:							
+	* [Cobardía](https://youtu.be/yKn-FA9Lo0k)			
+	* [Agresividad](https://youtu.be/E7aklLO_LRw)		
 
 	
 * Vehicle 3:
