@@ -30,4 +30,4 @@ Practicas de laboratorio con un Robot Lego de la asignatura Sistemas Inteligente
 
  ### Research
  
- [Embodied Agents](https://drive.google.com/open?id=1KhXN-0VQ5zsExDOUJyByjwcCx-BzF4NA)
+ * [Embodied Agents](https://drive.google.com/open?id=1KhXN-0VQ5zsExDOUJyByjwcCx-BzF4NA)
