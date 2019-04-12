@@ -12,7 +12,7 @@ Practicas de laboratorio con un Robot Lego de la asignatura Sistemas Inteligente
 
 **Práctica 7**
 
-* [Recorrer la línea negra](https://youtu.be/bLhXKdP8LN4
+* [Recorrer la línea negra](https://youtu.be/bLhXKdP8LN4)
 * [Esquivar un obstáculo](https://youtu.be/KInFr1WWSk4)
 
 **Práctica 8**
