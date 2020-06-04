@@ -15,7 +15,9 @@ Laboratoty practices with a Lego Robot
 * [Follow the black line](https://youtu.be/bLhXKdP8LN4)
 * [Avoid an obstacle](https://youtu.be/KInFr1WWSk4)
 
-**Practice 8**
+**Practice 8** 
+
+This practice is based on the Braitenberg vehicle ([more info](https://en.wikipedia.org/wiki/Braitenberg_vehicle))
 
 * Vehicle 1:							
 	* [Cobardía](https://youtu.be/yKn-FA9Lo0k)			
