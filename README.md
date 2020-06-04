@@ -28,6 +28,10 @@ This practice is based on the Braitenberg vehicle ([more info](https://en.wikipe
 	* [Love](https://youtu.be/Nr7a9y3tLZs)
 	* [Explorer](https://youtu.be/K_Arwlk9cnk)
 
+**Firefighter robot**
+
+This practice consisted in programming a Lego robot to find a candle hidden somewhere in a labyrinth and blow it.
+There is no video, but it is possible to check the code [here](https://github.com/rosset25/Robot/tree/master/Robot_bombero).
 
 ##
 
