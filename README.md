@@ -20,13 +20,13 @@ Laboratoty practices with a Lego Robot
 This practice is based on the Braitenberg vehicle ([more info](https://en.wikipedia.org/wiki/Braitenberg_vehicle))
 
 * Vehicle 1:							
-	* [Cobardía](https://youtu.be/yKn-FA9Lo0k)			
-	* [Agresividad](https://youtu.be/E7aklLO_LRw)		
+	* [Coward](https://youtu.be/yKn-FA9Lo0k)			
+	* [Aggressive](https://youtu.be/E7aklLO_LRw)		
 
 	
 * Vehicle 3:
-	* [Amor](https://youtu.be/Nr7a9y3tLZs)
-	* [Explorador](https://youtu.be/K_Arwlk9cnk)
+	* [Love](https://youtu.be/Nr7a9y3tLZs)
+	* [Explorer](https://youtu.be/K_Arwlk9cnk)
 
 
 ##
