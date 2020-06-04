@@ -1,21 +1,21 @@
 # Robot
-*(Asignatura Sistemas Inteligentes)*
+*(Intelligent Systems)*
 
-Practicas de laboratorio con un Robot Lego de la asignatura Sistemas Inteligentes 
+Laboratoty practices with a Lego Robot 
 
-**Práctica 6**
+**Practice 6**
 
 * [Rooms](https://youtu.be/Rb0OAr2inbQ)
-* [Walls 1 *(no chocarse con las paredes/muros)*](https://youtu.be/zzk0m_AuZug)
-* [Walls 2 *(no caer de la plataforma)*](https://youtu.be/8Y1WQHl4lfw)
-* [Tirar las latas](https://youtu.be/nFP8VsG_Rqg)
+* [Walls 1 *(Avoid walls)*](https://youtu.be/zzk0m_AuZug)
+* [Walls 2 *(Not to fall from the platform)*](https://youtu.be/8Y1WQHl4lfw)
+* [Push cans from a platform](https://youtu.be/nFP8VsG_Rqg)
 
-**Práctica 7**
+**Practice 7**
 
-* [Recorrer la línea negra](https://youtu.be/bLhXKdP8LN4)
-* [Esquivar un obstáculo](https://youtu.be/KInFr1WWSk4)
+* [Follow the black line](https://youtu.be/bLhXKdP8LN4)
+* [Avoid an obstacle](https://youtu.be/KInFr1WWSk4)
 
-**Práctica 8**
+**Practice 8**
 
 * Vehicle 1:							
 	* [Cobardía](https://youtu.be/yKn-FA9Lo0k)			
